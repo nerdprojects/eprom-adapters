@@ -1,0 +1,8 @@
+DPDT Switch SMD:
+JS202011SCQN
+
+Flash-Memory:
+SST39SF040-55-4C-WHE
+
+Pin-Headers:
+350-80-164-00-006101
